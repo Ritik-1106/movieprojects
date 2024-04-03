@@ -32,7 +32,7 @@ class Homestate extends State<Home> {
     return Scaffold(
         appBar: AppBar(
       title: Text("News app"),
-      backgroundColor: Colors.green,
+      backgroundColor: Colors.blue,
     ));
   }
 }
